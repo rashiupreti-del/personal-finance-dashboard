@@ -1,0 +1,571 @@
+Date,Category,Amount,Payment Method,Notes
+2024-01-01,Entertainment,29.1,Bank Transfer,Coffee
+2024-01-02,Entertainment,15.33,Bank Transfer,Dinner
+2024-01-02,Food,31.74,Debit Card,Coffee
+2024-01-02,Entertainment,32.97,Credit Card,Snacks
+2024-01-04,Transport,30.19,Credit Card,Subscription
+2024-01-04,Transport,17.27,Cash,Taxi
+2024-01-05,Transport,8.7,Bank Transfer,Snacks
+2024-01-05,Transport,37.02,Cash,Subscription
+2024-01-05,Food,21.46,Debit Card,Dinner
+2024-01-06,Food,47.3,Cash,Snacks
+2024-01-08,Transport,54.47,Credit Card,Lunch
+2024-01-10,Transport,17.44,Cash,Subscription
+2024-01-11,Transport,41.28,Bank Transfer,Dinner
+2024-01-13,Transport,23.61,UPI,Bus
+2024-01-13,Food,27.6,Debit Card,Taxi
+2024-01-14,Entertainment,37.04,Cash,Subscription
+2024-01-16,Entertainment,26.48,Bank Transfer,Taxi
+2024-01-17,Entertainment,27.86,Debit Card,Groceries
+2024-01-17,Entertainment,20.96,Debit Card,Dinner
+2024-01-17,Food,9.21,Bank Transfer,Groceries
+2024-01-19,Entertainment,24.67,Bank Transfer,Groceries
+2024-01-20,Entertainment,27.46,Cash,Coffee
+2024-01-21,Entertainment,50.0,Bank Transfer,Concert
+2024-01-21,Entertainment,44.55,Credit Card,Groceries
+2024-01-22,Transport,22.36,Bank Transfer,Subscription
+2024-01-23,Entertainment,25.79,Debit Card,Coffee
+2024-01-23,Transport,18.32,Cash,Bus
+2024-01-24,Food,52.09,Cash,Bus
+2024-01-25,Entertainment,69.27,UPI,Subscription
+2024-01-26,Food,31.32,Credit Card,Taxi
+2024-01-26,Food,14.94,UPI,Movie
+2024-01-27,Transport,23.62,Cash,Lunch
+2024-01-28,Entertainment,34.74,Debit Card,Coffee
+2024-01-29,Transport,44.11,Credit Card,Groceries
+2024-01-30,Entertainment,29.13,UPI,Movie
+2024-01-30,Transport,37.07,Bank Transfer,Coffee
+2024-01-30,,9.33,Credit Card,Dinner
+2024-01-30,Entertainment,44.78,Bank Transfer,Subscription
+2024-01-31,Food,61.21,UPI,Movie
+2024-01-31,Food,19.37,UPI,Concert
+2024-01-31,Food,19.37,UPI,Concert
+2024-02-01,Transport,33.57,Debit Card,Movie
+2024-02-01,Transport,11.53,Cash,Concert
+2024-02-02,Transport,4.89,Debit Card,Dinner
+2024-02-02,Transport,9.99,UPI,
+2024-02-03,Entertainment,33.8,UPI,Concert
+2024-02-04,Entertainment,68.51,Cash,Snacks
+2024-02-04,Food,30.08,Bank Transfer,Groceries
+2024-02-05,Food,64.83,UPI,Lunch
+2024-02-05,Entertainment,15.36,Cash,Subscription
+2024-02-05,Transport,94.02,UPI,Groceries
+2024-02-05,Entertainment,27.19,Credit Card,Dinner
+2024-02-06,Entertainment,21.37,Cash,
+2024-02-06,Transport,19.14,Cash,Dinner
+2024-02-06,Food,14.58,Cash,Bus
+2024-02-07,Transport,59.38,Cash,Lunch
+2024-02-07,Transport,18.17,Bank Transfer,Lunch
+2024-02-08,Food,48.57,Debit Card,Coffee
+2024-02-08,Transport,42.01,Cash,Snacks
+2024-02-10,Entertainment,8.88,UPI,Bus
+2024-02-10,Entertainment,42.26,Debit Card,Coffee
+2024-02-10,Entertainment,108.79,UPI,Taxi
+2024-02-11,Entertainment,24.91,Debit Card,Coffee
+2024-02-11,Entertainment,31.78,Credit Card,Concert
+2024-02-13,Entertainment,17.72,Debit Card,Subscription
+2024-02-14,Entertainment,27.77,UPI,Dinner
+2024-02-16,Food,105.48,UPI,Taxi
+2024-02-17,Food,4.04,Bank Transfer,Coffee
+2024-02-17,Transport,76.31,Cash,Subscription
+2024-02-17,Entertainment,41.04,UPI,Fuel
+2024-02-17,Transport,32.2,Bank Transfer,Subscription
+2024-02-17,Entertainment,41.04,UPI,Fuel
+2024-02-18,Food,46.58,Cash,Taxi
+2024-02-19,Entertainment,20.15,Credit Card,Snacks
+2024-02-19,Entertainment,20.15,Credit Card,Snacks
+2024-02-19,Food,22.63,Debit Card,Subscription
+2024-02-20,Transport,5.07,Debit Card,Dinner
+2024-02-20,Entertainment,8.18,Debit Card,Groceries
+2024-02-21,Transport,38.49,Cash,
+2024-02-21,Transport,38.49,Cash,
+2024-02-21,Entertainment,16.13,Cash,Coffee
+2024-02-22,Transport,5.92,Bank Transfer,Coffee
+2024-02-22,Entertainment,27.89,Debit Card,Movie
+2024-02-22,Food,73.57,Bank Transfer,Bus
+2024-02-23,Food,43.73,UPI,Dinner
+2024-02-24,Entertainment,61.74,Credit Card,Taxi
+2024-02-24,Entertainment,16.44,Credit Card,Coffee
+2024-02-25,Entertainment,60.17,Credit Card,Subscription
+2024-02-25,Transport,30.36,Bank Transfer,Bus
+2024-02-26,Entertainment,19.25,Credit Card,Dinner
+2024-02-27,Transport,46.14,UPI,Groceries
+2024-02-27,Food,21.77,Bank Transfer,
+2024-02-27,Transport,,,Dinner
+2024-02-27,Food,30.16,Bank Transfer,Concert
+2024-02-28,Entertainment,21.15,Debit Card,Lunch
+2024-02-29,Entertainment,14.0,Bank Transfer,Lunch
+2024-03-02,Entertainment,57.85,Bank Transfer,Subscription
+2024-03-02,Transport,10.56,Cash,Movie
+2024-03-04,Entertainment,24.07,UPI,Bus
+2024-03-05,Transport,92.03,Cash,Taxi
+2024-03-06,,90.41,Debit Card,Bus
+2024-03-06,Transport,66.12,UPI,Fuel
+2024-03-07,Transport,28.0,Cash,Snacks
+2024-03-08,Food,10.13,Debit Card,Subscription
+2024-03-08,Transport,35.09,Debit Card,Fuel
+2024-03-08,Transport,20.78,UPI,
+2024-03-09,Transport,42.94,Cash,
+2024-03-11,Food,20.1,UPI,Lunch
+2024-03-12,Transport,46.01,Debit Card,Concert
+2024-03-12,Transport,41.4,Bank Transfer,Fuel
+2024-03-12,Food,23.15,UPI,Snacks
+2024-03-12,Food,23.15,UPI,Snacks
+2024-03-14,Transport,115.07,UPI,Snacks
+2024-03-16,Transport,17.87,Credit Card,Dinner
+2024-03-17,Transport,90.46,Cash,Coffee
+2024-03-19,Entertainment,,,Concert
+2024-03-19,Transport,23.17,Debit Card,Subscription
+2024-03-20,Food,33.54,Debit Card,Taxi
+2024-03-20,Entertainment,31.72,UPI,Groceries
+2024-03-20,Transport,15.18,UPI,Lunch
+2024-03-20,Food,57.93,Credit Card,Movie
+2024-03-21,Transport,33.83,Credit Card,Movie
+2024-03-21,Food,21.38,Credit Card,Bus
+2024-03-21,Transport,53.97,Bank Transfer,
+2024-03-22,Transport,28.57,Bank Transfer,Lunch
+2024-03-22,Food,11.64,Debit Card,Dinner
+2024-03-22,Transport,0.61,Credit Card,Fuel
+2024-03-23,Food,10.28,Credit Card,Bus
+2024-03-23,Entertainment,36.32,Bank Transfer,Groceries
+2024-03-24,Entertainment,107.48,Debit Card,Lunch
+2024-03-24,Food,27.38,Cash,Bus
+2024-03-24,Transport,8.36,UPI,Fuel
+2024-03-25,Entertainment,68.21,UPI,Groceries
+2024-03-25,Transport,22.49,Cash,Lunch
+2024-03-26,,48.57,UPI,Fuel
+2024-03-28,Food,,,Dinner
+2024-03-31,Food,47.85,Credit Card,Subscription
+2024-04-01,Entertainment,53.3,Cash,Bus
+2024-04-01,Entertainment,36.98,Cash,Fuel
+2024-04-01,Entertainment,53.3,Cash,Bus
+2024-04-03,Entertainment,34.45,Cash,Taxi
+2024-04-05,Transport,21.92,Debit Card,Snacks
+2024-04-07,Transport,10.37,UPI,Movie
+2024-04-07,Transport,29.8,Debit Card,Dinner
+2024-04-07,Food,75.85,Bank Transfer,Fuel
+2024-04-08,Transport,28.44,Bank Transfer,Dinner
+2024-04-08,Entertainment,45.66,Cash,Bus
+2024-04-11,,22.54,Debit Card,Subscription
+2024-04-11,Food,36.43,Debit Card,Lunch
+2024-04-12,Transport,75.94,Credit Card,Concert
+2024-04-12,Entertainment,35.12,Bank Transfer,Fuel
+2024-04-14,Transport,61.6,Credit Card,Subscription
+2024-04-14,Transport,37.04,Debit Card,Snacks
+2024-04-17,Entertainment,68.86,UPI,Fuel
+2024-04-17,Food,47.36,UPI,Coffee
+2024-04-17,Entertainment,68.86,UPI,Fuel
+2024-04-17,Transport,53.0,Cash,Taxi
+2024-04-18,,35.23,UPI,Fuel
+2024-04-18,Entertainment,45.22,Debit Card,Subscription
+2024-04-18,Food,13.23,Debit Card,Snacks
+2024-04-19,Transport,34.11,Bank Transfer,Dinner
+2024-04-19,Entertainment,15.64,Credit Card,Coffee
+2024-04-19,Food,11.64,UPI,Dinner
+2024-04-20,Entertainment,80.73,UPI,Coffee
+2024-04-21,Transport,63.14,Cash,Taxi
+2024-04-21,Food,14.29,UPI,Subscription
+2024-04-21,Transport,63.14,Cash,Taxi
+2024-04-22,Transport,24.72,Bank Transfer,Movie
+2024-04-22,Entertainment,23.1,Credit Card,Snacks
+2024-04-22,Entertainment,17.01,UPI,Groceries
+2024-04-22,Food,17.95,Debit Card,Lunch
+2024-04-23,Food,,,Lunch
+2024-04-24,Food,23.2,Credit Card,Snacks
+2024-04-25,Food,31.29,UPI,Groceries
+2024-04-26,Entertainment,10.33,Bank Transfer,Concert
+2024-04-27,Transport,58.48,Credit Card,
+2024-04-27,Transport,37.46,Cash,Coffee
+2024-04-27,Food,30.92,UPI,Subscription
+2024-04-29,Food,34.04,UPI,Dinner
+2024-04-29,Food,54.25,UPI,Concert
+2024-04-30,Food,10.28,Credit Card,Fuel
+2024-05-01,,72.99,Debit Card,Groceries
+2024-05-01,Transport,64.86,UPI,Coffee
+2024-05-01,Food,48.94,Debit Card,Subscription
+2024-05-02,Transport,33.04,UPI,Concert
+2024-05-02,Entertainment,86.19,Cash,Bus
+2024-05-03,Entertainment,106.99,Credit Card,Groceries
+2024-05-04,,34.24,Debit Card,Taxi
+2024-05-05,Entertainment,42.49,UPI,Movie
+2024-05-05,Entertainment,52.56,Cash,Coffee
+2024-05-05,Entertainment,61.76,Cash,Dinner
+2024-05-06,Entertainment,62.96,Debit Card,Snacks
+2024-05-06,Transport,51.18,Credit Card,Concert
+2024-05-06,Transport,7.53,Bank Transfer,Groceries
+2024-05-07,Entertainment,14.76,Debit Card,Lunch
+2024-05-07,Entertainment,54.19,Bank Transfer,
+2024-05-07,Food,24.23,UPI,Taxi
+2024-05-07,Entertainment,21.35,UPI,Snacks
+2024-05-07,,14.76,Debit Card,Lunch
+2024-05-08,Transport,74.61,UPI,Bus
+2024-05-08,Transport,12.11,UPI,Bus
+2024-05-13,Food,22.27,Cash,Groceries
+2024-05-14,Transport,20.13,UPI,Concert
+2024-05-14,Food,17.57,Cash,Concert
+2024-05-14,Entertainment,41.7,Bank Transfer,Bus
+2024-05-15,Entertainment,21.89,UPI,Dinner
+2024-05-15,Entertainment,34.35,Debit Card,Subscription
+2024-05-15,Food,32.62,Debit Card,Subscription
+2024-05-15,Entertainment,58.92,UPI,
+2024-05-15,,37.3,Cash,Snacks
+2024-05-15,Food,6.25,Bank Transfer,Dinner
+2024-05-15,Food,18.97,Cash,Movie
+2024-05-15,Entertainment,16.1,Debit Card,Subscription
+2024-05-16,Transport,50.78,Credit Card,Groceries
+2024-05-16,Entertainment,39.51,Credit Card,Bus
+2024-05-16,Transport,17.42,Debit Card,
+2024-05-17,Transport,36.01,Debit Card,Concert
+2024-05-18,Transport,40.63,Debit Card,Subscription
+2024-05-19,Food,22.39,UPI,Lunch
+2024-05-20,Food,81.32,Cash,Subscription
+2024-05-21,,14.99,UPI,Dinner
+2024-05-22,Food,20.24,Bank Transfer,Groceries
+2024-05-22,Food,46.96,UPI,
+2024-05-22,Transport,18.09,Debit Card,Movie
+2024-05-22,Food,29.18,UPI,Dinner
+2024-05-22,Entertainment,60.99,Debit Card,Groceries
+2024-05-24,Entertainment,23.82,Debit Card,Bus
+2024-05-25,Food,36.75,Bank Transfer,
+2024-05-26,Transport,77.99,UPI,Lunch
+2024-05-28,Entertainment,21.53,Bank Transfer,
+2024-05-30,Entertainment,30.88,Debit Card,Coffee
+2024-05-30,Food,28.24,Bank Transfer,Lunch
+2024-05-30,Entertainment,30.88,Debit Card,Coffee
+2024-05-31,Food,33.75,Credit Card,Lunch
+2024-06-01,Food,29.36,Cash,Bus
+2024-06-02,Transport,7.48,Cash,Fuel
+2024-06-02,Food,47.93,Bank Transfer,Groceries
+2024-06-03,Transport,31.73,Bank Transfer,Fuel
+2024-06-06,Entertainment,,,Taxi
+2024-06-06,Transport,32.78,Credit Card,Dinner
+2024-06-08,Food,88.7,Bank Transfer,Lunch
+2024-06-09,Transport,27.1,Debit Card,Coffee
+2024-06-09,Transport,4.8,Cash,Fuel
+2024-06-10,Entertainment,45.25,Cash,Subscription
+2024-06-10,Food,12.02,Credit Card,Snacks
+2024-06-10,Transport,11.96,Debit Card,Coffee
+2024-06-10,Entertainment,28.6,Bank Transfer,Coffee
+2024-06-14,Entertainment,26.53,Credit Card,Taxi
+2024-06-15,Food,44.36,Credit Card,Movie
+2024-06-18,Food,22.14,Credit Card,Groceries
+2024-06-19,Food,37.95,Credit Card,Coffee
+2024-06-19,Transport,19.36,Cash,Subscription
+2024-06-21,Entertainment,26.34,UPI,
+2024-06-22,Transport,30.57,Credit Card,Taxi
+2024-06-22,Food,20.13,Debit Card,Taxi
+2024-06-23,Entertainment,35.16,Debit Card,Subscription
+2024-06-23,Transport,41.16,Credit Card,Coffee
+2024-06-24,Entertainment,76.06,Cash,Fuel
+2024-06-25,Transport,40.31,Credit Card,Dinner
+2024-06-27,Food,,,Subscription
+2024-06-30,Entertainment,49.03,Cash,Snacks
+2024-06-30,Food,38.58,Cash,Coffee
+2024-06-30,Entertainment,17.39,Bank Transfer,Subscription
+2024-07-02,Entertainment,92.7,Credit Card,
+2024-07-02,Transport,57.19,Cash,Bus
+2024-07-04,Transport,33.85,Bank Transfer,Coffee
+2024-07-04,Food,55.61,UPI,Snacks
+2024-07-04,Transport,42.2,UPI,Groceries
+2024-07-05,,126.31,Cash,Taxi
+2024-07-05,Food,12.19,Debit Card,Coffee
+2024-07-08,Entertainment,39.23,Credit Card,Fuel
+2024-07-08,Transport,36.75,UPI,Dinner
+2024-07-08,Entertainment,44.65,Debit Card,Concert
+2024-07-08,Entertainment,44.65,Debit Card,Concert
+2024-07-10,Transport,7.08,UPI,Movie
+2024-07-10,Transport,37.9,Debit Card,Bus
+2024-07-12,Transport,29.07,Cash,Concert
+2024-07-13,Entertainment,17.72,Debit Card,Fuel
+2024-07-13,Food,30.83,UPI,
+2024-07-13,Entertainment,80.14,Credit Card,Dinner
+2024-07-13,Food,26.9,UPI,Bus
+2024-07-14,Entertainment,19.49,Bank Transfer,Bus
+2024-07-14,Transport,43.81,Bank Transfer,Snacks
+2024-07-16,Entertainment,15.29,Cash,Lunch
+2024-07-18,Entertainment,52.24,UPI,
+2024-07-21,Transport,42.13,UPI,Fuel
+2024-07-21,Entertainment,49.11,Bank Transfer,Subscription
+2024-07-23,Entertainment,48.93,Debit Card,Bus
+2024-07-23,Transport,44.97,Bank Transfer,Taxi
+2024-07-24,Food,16.63,Cash,Snacks
+2024-07-24,Entertainment,23.05,Credit Card,Bus
+2024-07-25,Food,18.17,Credit Card,Lunch
+2024-07-25,Transport,48.74,Bank Transfer,Concert
+2024-07-27,Entertainment,41.34,Cash,Bus
+2024-07-27,Transport,57.54,Cash,Fuel
+2024-07-27,Transport,112.83,Debit Card,Bus
+2024-07-29,Food,41.56,Bank Transfer,Lunch
+2024-07-29,Food,41.56,Bank Transfer,Lunch
+2024-07-29,Food,16.3,Cash,Snacks
+2024-07-30,Transport,36.8,Bank Transfer,Coffee
+2024-08-02,Entertainment,40.19,Credit Card,Lunch
+2024-08-02,,25.16,Credit Card,Lunch
+2024-08-04,Transport,39.08,UPI,Taxi
+2024-08-04,Transport,35.01,UPI,Coffee
+2024-08-04,Entertainment,10.05,Debit Card,Concert
+2024-08-04,,48.28,Credit Card,Subscription
+2024-08-04,Entertainment,20.91,Credit Card,Dinner
+2024-08-04,Entertainment,72.58,Debit Card,
+2024-08-04,Food,27.5,Debit Card,Concert
+2024-08-04,Food,26.67,Cash,Taxi
+2024-08-04,Entertainment,10.05,Debit Card,Concert
+2024-08-06,Entertainment,66.46,UPI,Fuel
+2024-08-07,Entertainment,17.95,Credit Card,Fuel
+2024-08-08,Entertainment,33.58,UPI,Bus
+2024-08-08,Transport,31.77,Cash,Dinner
+2024-08-10,Transport,54.34,Cash,Movie
+2024-08-12,Food,35.27,Cash,Groceries
+2024-08-12,Food,26.91,Debit Card,Bus
+2024-08-14,Food,20.35,Cash,
+2024-08-14,Entertainment,24.06,Credit Card,Fuel
+2024-08-17,Transport,19.73,Bank Transfer,Taxi
+2024-08-17,Entertainment,28.22,Debit Card,
+2024-08-19,Transport,83.35,Bank Transfer,Movie
+2024-08-20,Transport,25.9,Bank Transfer,Coffee
+2024-08-20,Entertainment,6.92,Credit Card,Groceries
+2024-08-20,Transport,70.69,Cash,Snacks
+2024-08-22,Transport,27.55,Credit Card,Groceries
+2024-08-22,Entertainment,15.33,Bank Transfer,Coffee
+2024-08-22,Transport,36.42,UPI,Lunch
+2024-08-23,Entertainment,43.66,Cash,Subscription
+2024-08-23,Entertainment,38.61,Bank Transfer,Snacks
+2024-08-24,Entertainment,18.54,Credit Card,Bus
+2024-08-24,Entertainment,40.54,Debit Card,Groceries
+2024-08-27,Entertainment,24.71,Cash,Subscription
+2024-08-27,Transport,21.36,UPI,Snacks
+2024-08-28,Entertainment,40.91,Cash,Concert
+2024-08-30,Transport,14.56,Debit Card,Snacks
+2024-08-30,Food,56.11,Credit Card,Concert
+2024-08-31,Entertainment,72.49,Bank Transfer,Subscription
+2024-09-01,Food,64.26,Credit Card,Taxi
+2024-09-03,Entertainment,17.12,UPI,Coffee
+2024-09-05,Transport,22.22,Debit Card,Subscription
+2024-09-05,Food,29.76,Credit Card,Lunch
+2024-09-05,Transport,,,Movie
+2024-09-06,Food,22.47,Cash,Concert
+2024-09-07,Transport,22.36,Credit Card,Taxi
+2024-09-07,Transport,40.16,Credit Card,
+2024-09-09,Transport,57.27,Debit Card,Bus
+2024-09-12,Entertainment,58.44,Bank Transfer,Bus
+2024-09-13,Food,104.05,UPI,Groceries
+2024-09-14,Transport,26.92,Cash,Dinner
+2024-09-15,Transport,12.31,Cash,Snacks
+2024-09-15,Transport,62.16,Debit Card,Movie
+2024-09-16,Entertainment,45.32,UPI,Bus
+2024-09-16,Food,32.23,UPI,Taxi
+2024-09-16,Transport,21.57,Debit Card,Concert
+2024-09-17,Food,11.85,Cash,Lunch
+2024-09-17,Entertainment,29.42,Credit Card,Subscription
+2024-09-20,Food,9.21,Debit Card,Concert
+2024-09-21,Food,51.06,Cash,Snacks
+2024-09-24,Food,40.25,Credit Card,Concert
+2024-09-27,Entertainment,48.25,UPI,Subscription
+2024-09-27,Transport,33.55,UPI,
+2024-09-27,Transport,81.6,Credit Card,Movie
+2024-09-28,Entertainment,55.35,UPI,Subscription
+2024-09-28,Transport,128.86,Bank Transfer,Lunch
+2024-09-28,Entertainment,55.35,UPI,Subscription
+2024-09-29,Transport,44.62,Bank Transfer,
+2024-09-30,Entertainment,53.16,Credit Card,Fuel
+2024-10-01,Entertainment,56.68,UPI,Dinner
+2024-10-01,Food,46.98,Bank Transfer,Dinner
+2024-10-01,Food,10.2,Cash,Dinner
+2024-10-02,Food,33.52,Bank Transfer,Taxi
+2024-10-02,Food,,,Bus
+2024-10-03,Food,18.5,Bank Transfer,Bus
+2024-10-03,Entertainment,85.35,Cash,Bus
+2024-10-03,Food,45.23,UPI,Dinner
+2024-10-03,Transport,19.08,Credit Card,Dinner
+2024-10-04,Transport,7.94,Bank Transfer,
+2024-10-05,Entertainment,65.05,Credit Card,Lunch
+2024-10-06,,76.79,Cash,Fuel
+2024-10-06,Entertainment,20.76,Bank Transfer,Concert
+2024-10-06,Transport,61.87,Cash,Lunch
+2024-10-08,Entertainment,25.82,Cash,Coffee
+2024-10-08,Transport,30.04,Debit Card,Bus
+2024-10-09,Transport,38.52,Debit Card,Concert
+2024-10-09,Food,22.13,UPI,Snacks
+2024-10-09,Entertainment,28.75,UPI,Bus
+2024-10-10,Transport,31.14,Credit Card,Fuel
+2024-10-10,Transport,29.26,Credit Card,Concert
+2024-10-10,Transport,41.64,UPI,Subscription
+2024-10-10,Transport,49.99,UPI,Lunch
+2024-10-11,Transport,17.98,Debit Card,
+2024-10-12,Entertainment,48.36,UPI,Dinner
+2024-10-13,Transport,35.85,Debit Card,
+2024-10-14,Transport,51.68,UPI,Taxi
+2024-10-14,Transport,75.03,Cash,Taxi
+2024-10-14,Food,49.93,Bank Transfer,Taxi
+2024-10-15,Transport,44.09,UPI,Taxi
+2024-10-16,Food,26.13,Cash,Movie
+2024-10-17,Entertainment,18.33,Credit Card,Bus
+2024-10-17,Transport,62.76,Bank Transfer,Subscription
+2024-10-18,Transport,69.44,Debit Card,Fuel
+2024-10-19,Transport,13.99,Bank Transfer,Movie
+2024-10-22,Entertainment,85.8,Debit Card,Snacks
+2024-10-22,Entertainment,122.87,Cash,Taxi
+2024-10-23,Entertainment,13.4,Cash,Movie
+2024-10-23,Entertainment,23.96,Cash,Groceries
+2024-10-25,Transport,47.43,Debit Card,Bus
+2024-10-25,Entertainment,30.03,Credit Card,Dinner
+2024-10-25,Food,40.46,Credit Card,Taxi
+2024-10-26,Food,36.79,Debit Card,Bus
+2024-10-26,Transport,92.8,Bank Transfer,Movie
+2024-10-28,Entertainment,47.96,Cash,Movie
+2024-10-28,Transport,22.14,Bank Transfer,Fuel
+2024-10-28,Transport,,,Fuel
+2024-10-29,Entertainment,21.9,Debit Card,Bus
+2024-10-31,Food,78.3,Bank Transfer,Dinner
+2024-10-31,Food,22.24,Cash,
+2024-11-01,Entertainment,75.84,Cash,Fuel
+2024-11-01,Food,34.07,UPI,Concert
+2024-11-02,Food,32.09,Credit Card,Taxi
+2024-11-04,Food,11.11,Bank Transfer,Fuel
+2024-11-05,Transport,26.14,UPI,Taxi
+2024-11-05,Food,34.69,Debit Card,Coffee
+2024-11-06,Food,23.54,Debit Card,
+2024-11-07,Transport,38.21,Cash,Lunch
+2024-11-07,Transport,93.55,Bank Transfer,Fuel
+2024-11-09,Entertainment,89.37,Bank Transfer,Bus
+2024-11-12,Transport,31.92,UPI,Subscription
+2024-11-12,Transport,31.92,UPI,Subscription
+2024-11-13,Food,24.57,Credit Card,Concert
+2024-11-13,Transport,27.48,Cash,Taxi
+2024-11-14,Transport,,,Bus
+2024-11-16,Food,59.13,Debit Card,Coffee
+2024-11-17,Transport,5.88,Cash,
+2024-11-17,Entertainment,52.78,Cash,Concert
+2024-11-19,Entertainment,33.28,Debit Card,Groceries
+2024-11-20,Food,24.08,Cash,Bus
+2024-11-20,Food,56.37,Debit Card,Lunch
+2024-11-21,Entertainment,53.97,Credit Card,Concert
+2024-11-21,Entertainment,44.12,UPI,Subscription
+2024-11-22,Food,13.48,Bank Transfer,Coffee
+2024-11-23,Transport,44.75,Credit Card,Subscription
+2024-11-23,Entertainment,32.79,Bank Transfer,Groceries
+2024-11-23,Transport,42.5,Cash,Subscription
+2024-11-24,Food,32.04,UPI,Fuel
+2024-11-25,Transport,,,Bus
+2024-11-26,Entertainment,,,Coffee
+2024-11-26,Entertainment,39.78,Bank Transfer,Fuel
+2024-11-26,,,,Coffee
+2024-11-27,Transport,39.41,Bank Transfer,Groceries
+2024-11-28,Entertainment,26.29,Debit Card,Coffee
+2024-11-28,Food,61.92,Cash,Groceries
+2024-11-29,Entertainment,32.91,Cash,Snacks
+2024-11-30,Entertainment,21.6,Debit Card,Groceries
+2024-11-30,Transport,19.96,Cash,Fuel
+2024-12-01,Food,45.25,Debit Card,Concert
+2024-12-02,Transport,65.41,Bank Transfer,Concert
+2024-12-03,Entertainment,23.2,Debit Card,Coffee
+2024-12-03,Entertainment,22.89,Credit Card,Movie
+2024-12-04,Transport,74.35,Credit Card,Groceries
+2024-12-04,Transport,44.06,Bank Transfer,Snacks
+2024-12-05,Transport,54.61,Bank Transfer,Groceries
+2024-12-07,Food,30.88,Bank Transfer,
+2024-12-07,Food,45.04,Bank Transfer,Snacks
+2024-12-08,Food,39.87,Credit Card,Snacks
+2024-12-08,,8.82,UPI,Subscription
+2024-12-08,Transport,31.07,UPI,Concert
+2024-12-08,Transport,31.07,UPI,Concert
+2024-12-09,Transport,73.05,Debit Card,Taxi
+2024-12-09,Entertainment,45.44,Bank Transfer,
+2024-12-09,Entertainment,35.93,Bank Transfer,Fuel
+2024-12-10,Food,52.07,Bank Transfer,Fuel
+2024-12-11,Food,4.85,Debit Card,Concert
+2024-12-12,Food,14.87,Debit Card,Taxi
+2024-12-14,Entertainment,39.11,UPI,Fuel
+2024-12-14,Entertainment,83.51,Bank Transfer,Snacks
+2024-12-15,Transport,55.1,Bank Transfer,Snacks
+2024-12-15,Entertainment,63.64,Bank Transfer,Groceries
+2024-12-15,Transport,37.9,Debit Card,Bus
+2024-12-16,Transport,14.13,UPI,Taxi
+2024-12-17,Food,38.76,UPI,Taxi
+2024-12-18,Entertainment,76.32,Debit Card,Movie
+2024-12-19,Entertainment,80.04,Debit Card,Dinner
+2024-12-19,Entertainment,80.19,UPI,Coffee
+2024-12-22,Transport,13.45,Credit Card,Snacks
+2024-12-23,Food,53.94,UPI,Snacks
+2024-12-25,Entertainment,19.68,Credit Card,Movie
+2024-12-25,Food,49.07,Debit Card,Subscription
+2024-12-25,Transport,23.35,Cash,Concert
+2024-12-26,Transport,19.32,Debit Card,Bus
+2024-12-26,Entertainment,39.62,UPI,Coffee
+2024-12-27,Food,20.36,Debit Card,Bus
+2024-12-28,Entertainment,98.04,Cash,Concert
+2024-12-31,Food,102.54,Debit Card,Bus
+2025-01-01,Food,30.01,Bank Transfer,Movie
+2025-01-01,Food,47.8,Bank Transfer,Dinner
+2025-01-02,Food,81.89,Debit Card,Snacks
+2025-01-02,Food,16.48,UPI,Coffee
+2025-01-02,Transport,61.76,Debit Card,Concert
+2025-01-03,Food,29.71,Credit Card,Fuel
+2025-01-04,Transport,,,Groceries
+2025-01-04,Food,40.2,Debit Card,Fuel
+2025-01-05,Food,20.21,Bank Transfer,
+2025-01-07,Entertainment,7.89,UPI,Groceries
+2025-01-08,Transport,58.75,Cash,Fuel
+2025-01-08,,39.49,UPI,Lunch
+2025-01-08,Entertainment,69.66,Credit Card,Subscription
+2025-01-08,Food,52.19,Cash,Taxi
+2025-01-09,Food,4.54,UPI,
+2025-01-09,Entertainment,34.98,Debit Card,
+2025-01-11,Entertainment,14.88,Credit Card,Fuel
+2025-01-11,Entertainment,9.87,UPI,Subscription
+2025-01-12,Entertainment,35.53,Credit Card,
+2025-01-12,Transport,,,Snacks
+2025-01-14,Food,27.6,Credit Card,Snacks
+2025-01-14,Entertainment,,,Snacks
+2025-01-14,Transport,39.94,UPI,Movie
+2025-01-15,Food,31.63,UPI,Movie
+2025-01-16,Entertainment,19.13,Debit Card,Subscription
+2025-01-17,Food,11.47,Cash,Fuel
+2025-01-17,Food,5.16,UPI,Lunch
+2025-01-18,Food,36.9,Debit Card,Coffee
+2025-01-19,Entertainment,21.98,Credit Card,Snacks
+2025-01-19,Food,39.77,Cash,Bus
+2025-01-20,Transport,9.56,Credit Card,Lunch
+2025-01-21,Transport,61.04,UPI,Dinner
+2025-01-21,Transport,9.03,Cash,Subscription
+2025-01-23,Entertainment,26.14,Credit Card,Bus
+2025-01-24,Transport,16.43,Debit Card,Concert
+2025-01-25,Food,9.87,UPI,Dinner
+2025-01-25,Entertainment,34.46,Cash,Fuel
+2025-01-25,Transport,65.36,Cash,Bus
+2025-01-27,Food,11.2,Credit Card,Dinner
+2025-01-28,Transport,21.63,Bank Transfer,Dinner
+2025-01-28,Food,27.81,UPI,Groceries
+2025-01-29,Transport,59.44,Bank Transfer,
+2025-01-30,Transport,15.17,Debit Card,Snacks
+2025-02-01,Entertainment,50.95,Bank Transfer,Concert
+2025-02-02,Transport,28.01,Bank Transfer,Fuel
+2025-02-03,Food,28.95,Bank Transfer,Lunch
+2025-02-04,Transport,21.66,Cash,Groceries
+2025-02-05,Transport,42.51,Cash,Bus
+2025-02-05,Entertainment,94.05,Debit Card,Groceries
+2025-02-05,Entertainment,51.3,Cash,Groceries
+2025-02-05,Food,16.95,UPI,
+2025-02-05,Food,16.95,UPI,
+2025-02-07,Entertainment,55.82,Debit Card,Movie
+2025-02-09,Transport,14.72,Bank Transfer,Coffee
+2025-02-11,Transport,22.13,Debit Card,Snacks
+2025-02-13,Food,38.32,Cash,Dinner
+2025-02-13,Food,33.56,Cash,Lunch
+2025-02-13,Food,33.56,Cash,Lunch
+2025-02-14,Food,80.77,Credit Card,Groceries
+2025-02-16,Food,,,Dinner
+2025-02-16,Food,37.46,Bank Transfer,Subscription
+2025-02-17,Transport,55.78,Cash,Groceries
+2025-02-17,Entertainment,28.48,Debit Card,Movie
+2025-02-17,Transport,37.7,Bank Transfer,Bus
+2025-02-17,Entertainment,50.77,Bank Transfer,Subscription
+2025-02-17,Transport,19.33,UPI,Lunch
+2025-02-18,Food,57.7,Bank Transfer,Taxi
+2025-02-19,Food,81.25,Credit Card,Subscription
+2025-02-19,Transport,4.11,UPI,Snacks
+2025-02-21,Food,40.64,Cash,Coffee
+2025-02-21,Food,40.64,Cash,Coffee
+2025-02-22,Food,48.22,Debit Card,Snacks
+2025-02-22,Food,40.67,Bank Transfer,Groceries
+2025-02-24,Food,17.16,Credit Card,Dinner
